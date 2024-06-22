@@ -4,7 +4,7 @@ Welcome to the Dice Game! This simple, fun, and easy-to-play game allows you to 
 
 
    ```
-4. **Roll the Dice**: Use the on-screen buttons to roll one or multiple dice and see the results instantly.
+**Roll the Dice**: Use the on-screen buttons to roll one or multiple dice and see the results instantly.
 
 ```
 
